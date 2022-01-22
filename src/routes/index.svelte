@@ -8,4 +8,5 @@
 
 <ul>
 	<li><a href="/counter">Counter</a></li>
+	<li><a href="/temperature_converter">Temperature converter</a></li>
 </ul>

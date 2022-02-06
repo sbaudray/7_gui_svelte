@@ -10,4 +10,5 @@
 	<li><a href="/counter">Counter</a></li>
 	<li><a href="/temperature_converter">Temperature converter</a></li>
 	<li><a href="/flight_booker">Flight Booker</a></li>
+	<li><a href="/timer">Timer</a></li>
 </ul>
